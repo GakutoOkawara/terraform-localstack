@@ -1,0 +1,7 @@
+.terraform
+.terraform.*
+
+volume/*
+*.tfstate
+*.tfstate.*
+*.tfvars
